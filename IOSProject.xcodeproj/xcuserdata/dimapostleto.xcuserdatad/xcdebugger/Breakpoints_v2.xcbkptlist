@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7D65C2C0-FAE8-40CD-B263-36EDD10BD358"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F08BD638-B70B-4336-A156-D4591CAA053D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestIOS/ComponentsData/NearDoctorsArrayData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "NearDoctorsArrayData_One"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "F08BD638-B70B-4336-A156-D4591CAA053D - caba68dab3a21480"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for dratingAndReviews"
+                  moduleName = "TestIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimapostleto/Desktop/TestIOS/TestIOS/ComponentsData/NearDoctorsArrayData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "F08BD638-B70B-4336-A156-D4591CAA053D - 124e6257c190e201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestIOS.NearDoctorsArrayData_One.dratingAndReviews.unsafeMutableAddressor : Swift.String"
+                  moduleName = "TestIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dimapostleto/Desktop/TestIOS/TestIOS/ComponentsData/NearDoctorsArrayData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
