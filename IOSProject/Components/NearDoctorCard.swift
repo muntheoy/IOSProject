@@ -18,7 +18,7 @@ struct NearDoctorCard: View {
                             Text(model.fullName)
                                 .foregroundColor(AppColors.darckTextColor)
                                 .padding(.bottom, 1)
-                                .font(.custom(FontsData.boldFont, size: NearDoctorCardDataConfig.doctorFullNameTextSize))
+                                .font(.custom(Fonts.bold, size: NearDoctorCardDataConfig.doctorFullNameTextSize))
                                 
                             Text(model.speciality)
                                 .foregroundColor(.gray)

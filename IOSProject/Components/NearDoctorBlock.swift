@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct NearDoctorBlock: View {
-    let doctors: [NearDoctorModel]  // Используем массив моделей
+    let doctors: [NearDoctorModel]
 
     var body: some View {
         VStack(alignment: .leading) {
@@ -26,7 +26,7 @@ struct NearDoctorBlock_Previews: PreviewProvider {
             NearDoctorModel(photo: "DoctorPhoto", name: "Jo", surname: "Kit",
                             speciality: "Dental Specialist", distance: 1.2,
                             rating: 5.0, reviewsCount: 200, time: "12:00"),
-            // Добавьте здесь больше моделей для превью
+            
         ])
     }
 }
