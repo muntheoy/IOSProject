@@ -83,7 +83,6 @@
 		0278C5C52B0A69860091676D /* AccountAuthenticationModificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountAuthenticationModificationViewController.swift; sourceTree = "<group>"; };
 		0278C5C82B0A69860091676D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
 		0278C5CA2B0A69860091676D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0278C5D22B0A69EE0091676D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		02A90F6C2B125F7A006D38AB /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		02A90F6D2B125F7B006D38AB /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		02A90F6E2B125F7C006D38AB /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
@@ -156,7 +155,6 @@
 			children = (
 				0218DE7A2B0CFD1D0075A4C9 /* Models */,
 				0218DE6A2B0CDC730075A4C9 /* ComponentsData */,
-				0278C5D22B0A69EE0091676D /* Info.plist */,
 				0278C5D32B0A6A310091676D /* Fonts */,
 				0278C5BB2B0A67C50091676D /* Components */,
 				02786E6B2B04E1FF0001C8F9 /* IOSProjectApp.swift */,
